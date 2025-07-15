@@ -339,10 +339,10 @@ flutter build web --release
 ## 📞 Support
 
 ### Getting Help
-- **Documentation**: Comprehensive docs at [docs.hayahhealth.com](https://docs.hayahhealth.com)
-- **Issues**: Report bugs on [GitHub Issues](https://github.com/your-org/hayah-health/issues)
+- **Documentation**: Comprehensive docs at [docs.hayahhealth.com](#)
+- **Issues**: Report bugs on [GitHub Issues](#)
 - **Discord**: Join our developer community
-- **Email**: Technical support at dev-support@hayahhealth.com
+- **Email**: Technical support at mahmoudbadawy10h@gmail.com
 
 ### Healthcare Provider Support
 - **Integration Guide**: API documentation for healthcare systems
