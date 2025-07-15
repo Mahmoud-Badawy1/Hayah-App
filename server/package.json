@@ -1,0 +1,17 @@
+{
+  "name": "hayah-video-call-server",
+  "version": "1.0.0",
+  "description": "WebSocket signaling server for video calls",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "dependencies": {
+    "ws": "^8.13.0",
+    "dotenv": "^16.3.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}

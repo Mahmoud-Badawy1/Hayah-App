@@ -1,0 +1,67 @@
+name: hayah_app
+description: "A new Flutter project."
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.8.1
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # UI
+  cupertino_icons: ^1.0.8
+  google_fonts: ^6.2.1
+  flutter_svg: ^2.2.0
+  cached_network_image: ^3.4.1
+  shimmer: ^3.0.0
+
+  # State Management
+  flutter_bloc: ^9.1.1
+  bloc: ^9.0.0
+  equatable: ^2.0.7
+
+  # Dependency Injection
+  get_it: ^8.0.3
+  injectable: ^2.5.0
+
+  # Network & API
+  dio: ^5.8.0+1
+  connectivity_plus: ^6.1.4
+  json_annotation: ^4.9.0
+
+  # Storage
+  hive: ^2.2.3
+  hive_flutter: ^1.1.0
+  flutter_secure_storage: ^9.2.4
+  shared_preferences: ^2.5.3
+
+  # Utils
+  intl: ^0.20.2
+  logger: ^2.6.0
+  url_launcher: ^6.3.2
+  package_info_plus: ^8.3.0
+  device_info_plus: ^11.5.0
+
+  # Location & Maps
+  geolocator: ^14.0.2
+  google_maps_flutter: ^2.12.3
+
+  # Video Calls
+  flutter_webrtc: ^0.14.2
+
+  # Forms
+  flutter_form_builder: ^10.1.0
+  form_builder_validators: ^11.2.0
+  zego_uikit_prebuilt_call: ^4.17.6
+  permission_handler: ^11.4.0
+  web_socket_channel: ^3.0.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
